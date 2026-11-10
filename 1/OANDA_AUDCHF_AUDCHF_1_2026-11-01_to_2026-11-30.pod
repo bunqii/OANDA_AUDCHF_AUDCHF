@@ -6,7 +6,7 @@
   "chunk_end": "2026-11-30",
   "parquet_file": "OANDA_AUDCHF_AUDCHF_1_2026-11-01_to_2026-11-30.parquet",
   "data_file": "OANDA_AUDCHF_AUDCHF_1_2026-11-01_to_2026-11-30.parquet",
-  "row_count": 7621,
+  "row_count": 9128,
   "first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 1
   },
   "last_candle": {
-    "time": 1794204120,
-    "Time": "2026-11-09T06:02:00.000000000Z",
-    "open": 0.56478,
-    "high": 0.56488,
-    "low": 0.56477,
-    "close": 0.56482,
-    "volume": 10
+    "time": 1794295920,
+    "Time": "2026-11-10T07:32:00.000000000Z",
+    "open": 0.5666,
+    "high": 0.56666,
+    "low": 0.5666,
+    "close": 0.56661,
+    "volume": 14
   },
   "csv_file": "OANDA_AUDCHF_AUDCHF_1_2026-11-01_to_2026-11-30.parquet",
-  "csv_row_count": 7621,
+  "csv_row_count": 9128,
   "csv_first_candle": {
     "time": 1793570640,
     "Time": "2026-11-01T22:04:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 1
   },
   "csv_last_candle": {
-    "time": 1794204120,
-    "Time": "2026-11-09T06:02:00.000000000Z",
-    "open": 0.56478,
-    "high": 0.56488,
-    "low": 0.56477,
-    "close": 0.56482,
-    "volume": 10
+    "time": 1794295920,
+    "Time": "2026-11-10T07:32:00.000000000Z",
+    "open": 0.5666,
+    "high": 0.56666,
+    "low": 0.5666,
+    "close": 0.56661,
+    "volume": 14
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-11-09T06:03:45.000000000Z",
-  "generated_at": "2026-11-09T06:03:45.000000000Z",
+  "verified_at": "2026-11-10T07:33:47.000000000Z",
+  "generated_at": "2026-11-10T07:33:47.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-11-06T21:54:00Z",
-        "to": "2026-11-09T06:03:00Z",
+        "from": "2026-11-09T05:57:00Z",
+        "to": "2026-11-10T07:33:00Z",
         "code": 200,
         "msg": "OK"
       }
